@@ -11,5 +11,6 @@ I’m learning the basics as I go: what each component does, how to wire things 
 | Project | Description |
 | --- | --- |
 | [Reaction Time Game](reaction-time-game/) | My first project: a two-player button game with a coloured light countdown and a white LED to show who pressed first. |
+| [Sonar Scanner](sonar-scanner/) | A servo-mounted ultrasonic scanner with a Processing radar display, distance warning light, and buzzer. |
 
 Each project includes its Arduino sketch, parts, wiring, and instructions. I’m keeping notes on what I learn and the problems I run into along the way.
