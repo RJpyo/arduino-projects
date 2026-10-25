@@ -1,13 +1,15 @@
 # Arduino Projects
 
-I got interested in Arduino after attending a workshop at university and wanted to carry on learning afterwards. This is my first time working with Arduinos or electronics, and I’ve been finding it really interesting seeing how the code and physical components work together.
+A collection of my Arduino builds, experiments, and lessons learned.
 
-I started with the fundamentals: what each component does, how a breadboard works, and the syntax needed to write an Arduino sketch. Even the labels on the board were new to me. I’ve been learning what GND and 5V mean, and why some pins have a tilde (~) next to them—those pins support PWM, which can be used to control things like LED brightness.
+I got into Arduino after attending a workshop at university. This is my first time working with Arduinos or electronics, and I’ve been finding it really interesting. I wanted to keep learning after the workshop, so I started trying out projects myself.
 
-My first project was a two-player reaction game. There was quite a bit of trial and error, especially with the wiring. At one point, I thought an LED wasn’t working, but testing it separately helped me figure out that the problem was actually how I’d connected the buttons.
-
-I’m still learning, so this repo is somewhere to keep my projects, code, and notes as I go. Getting something working after figuring out what went wrong has been one of the most satisfying parts so far.
+I’m learning the basics as I go: what each component does, how to wire things on a breadboard, and the syntax I need to use in my code. I’ve also been getting familiar with the board itself, including what GND and 5V mean and what the tilde (~) next to some pins is for. Learning that those pins support PWM helped me understand how to control things like LED brightness.
 
 ## Projects
 
-- [Reaction Time Game](reaction-time-game/) — a two-player game with a light countdown and buttons. Includes the code, wiring instructions, and what I learned while building it.
+| Project | Description |
+| --- | --- |
+| [Reaction Time Game](reaction-time-game/) | My first project: a two-player button game with a coloured light countdown and a white LED to show who pressed first. |
+
+Each project includes its Arduino sketch, parts, wiring, and instructions. I’m keeping notes on what I learn and the problems I run into along the way.
